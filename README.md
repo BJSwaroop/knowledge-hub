@@ -1,4 +1,4 @@
-# knowledge-hub
+# knowledge-Hub
 Revolutionizing the learning experience 
 Problem Statement:
 Now a days the resources are very huge know that we could not be able to fetch what is better for us and getting stuck at tutorials without a proper guidance of an experience one and thus procrastinating the tasks.
