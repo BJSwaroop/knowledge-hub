@@ -17,7 +17,7 @@ skill instead there will be a roadmap which they can adjust according to level, 
 - Gaining the trust of users and providing them the best resources to learn the skill and getting 
 the reviews of users who are already skilled in it. 
 - Gathering the resources and updating from time to time. 
-**Overcoming the Challenges**
+#### Overcoming the Challenges
 - The platform can be made open source where users can make pull request of the old resources by modifying them into new.
 
 ## Accomplishments that we're proud of
